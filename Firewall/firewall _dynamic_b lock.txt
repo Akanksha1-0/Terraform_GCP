@@ -1,0 +1,7 @@
+1) Required parameter for firewall rule is 
+  Name,network
+  ingrees or egress 
+  port
+  priority
+  protocol
+  
